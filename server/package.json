@@ -1,0 +1,10 @@
+{
+  "name": "Mistigri-server",
+  "version": "0.0.1",
+  "description": "Server for the Mistigri project",
+  "main": "index.js",
+  "author": "soravux",
+  "dependencies": {
+    "express": "3.4.8"
+  }
+}
