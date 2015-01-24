@@ -26,7 +26,7 @@ Client Setup
 cd client
 npm install
 bower install
-grunt buildbower
+grunt build
 ```
 Then, go to `client/index.html` with a browser
 
