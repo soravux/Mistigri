@@ -1,0 +1,27 @@
+{
+  "name": "Mistigri",
+  "version": "0.0.01",
+  "homepage": "https://github.com/soravux/Mistigri",
+  "authors": [
+    "Yannick <yannickhold@gmail.com>",
+    "Philippe <micophi@gmail.com>"
+  ],
+  "description": "Multiplayer 3D Evolution Game",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "physijs": "*",
+    "three.js": "*"
+  }
+}
