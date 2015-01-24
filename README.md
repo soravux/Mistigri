@@ -1,16 +1,34 @@
 # Mistigri
 Multiplayer Web-based Game Engine
 
+General Setup
+=============
 
-Setup
-=====
+Install Node.js, then:
+```
+npm install -g bower
+npm install -g grunt
+```
+
+Server Setup
+============
 
 ```
 cd server
 npm install
 node .
 ```
-THen, go to `client/index.html` with a browser
+
+Client Setup
+============
+
+```
+cd client
+npm install
+bower install
+grunt buildbower
+```
+Then, go to `client/index.html` with a browser
 
 
 TODO
@@ -19,14 +37,8 @@ TODO
 General
 -------
 
-- Add Grunt
-- Utiliser require()?
-
 Client
 ------
-
-- Add Bower
-- Add dependencies using Bower (three.js, socket.io-client, etc)
 
 Server
 ------
