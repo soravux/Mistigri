@@ -22,6 +22,8 @@
   ],
   "dependencies": {
     "physijs": "*",
-    "three.js": "*"
+    "threejs": "*",
+    "socket.io-client": "~1.3.2",
+    "jquery": "~2.1.3"
   }
 }
