@@ -1,0 +1,24 @@
+{
+  "name": "Mistigri",
+  "version": "1.0.0",
+  "description": "Multiplayer 3D Evolution Game",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-bower-concat": "^0.4.0",
+    "grunt-contrib-uglify": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soravux/Mistigri.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soravux/Mistigri/issues"
+  },
+  "homepage": "https://github.com/soravux/Mistigri"
+}
